@@ -43,20 +43,9 @@ It is designed for arbitrage traders who want a simple external signal file that
 
 There are a few ways to find the host/IP and port of your MT5 trading server.
 
-### Method 1 – From inside MetaTrader 5 (recommended)
+Using NetLimiter to inspect connections (advanced users)
 
-1. Open **MetaTrader 5**.
-2. Go to:  
-   **File → Login to Trade Account** or **File → Open an Account**.
-3. In the server list, look for the server your broker gave you  
-   (for example: `BrokerName-Demo`, `BrokerName-Live`).
-4. In many cases, your broker will provide the server **address** and **port** in their documentation or in the MT5 "server" field.
-5. Copy that host and port and paste them into the app fields:
-   - **MT5 Host**
-   - **MT5 Port**
-
-
-### Method 2 – Using NetLimiter to inspect connections (advanced users)
+https://www.netlimiter.com/download
 
 If your broker does not clearly show host/port, you can inspect the MT5 terminal connections on your own computer.
 
