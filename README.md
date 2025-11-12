@@ -1,6 +1,7 @@
 # MT5 Gap Signal Generator (Free Arbitrage Tool)
 
 ![MT5 Gap Signal Tool](screenshot.png)
+<img width="696" height="828" alt="mt5-gap-signal-tool" src="https://github.com/user-attachments/assets/252d55a6-6f2a-4fc9-812f-0b6574575568" />
 
 A free Windows tool that connects to your MetaTrader 5 (MT5) via gRPC and generates **BUY/SELL signals** based on price gaps.  
 It is designed for arbitrage traders who want a simple external signal file that can be read by EAs, scripts, or other tools.
